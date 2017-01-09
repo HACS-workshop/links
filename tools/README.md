@@ -1,3 +1,3 @@
 # Tools related to HACS
 
-[SAW](https://saw.galois.com/)
+[Galois' Software Analysis Workbench (SAW)](https://saw.galois.com/)
