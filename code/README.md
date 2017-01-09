@@ -1,3 +1,3 @@
 # Links to HACS-related code
 
-[hacl*](https://github.com/mitls/hacl-star)
+[hacl&ast;](https://github.com/mitls/hacl-star): an F&ast; verified cryptographic library.
