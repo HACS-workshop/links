@@ -10,6 +10,8 @@ The [Coq](https://coq.inria.fr/) Proof Assistant
 
 [Frama-C](http://frama-c.com/): an extensible and collaborative platform dedicated to source-code analysis of C software
 
+[gfverif](http://gfverif.cryptojedi.org): fast and easy verification of finite-field arithmetic
+
 Galois' [Software Analysis Workbench (SAW)](https://saw.galois.com/)
 
 [Kami](http://plv.csail.mit.edu/kami/):  tool for verified hardware design (ISA->RTL)
