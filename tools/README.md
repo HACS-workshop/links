@@ -2,7 +2,9 @@
 
 ## Formal Methods
 
-[CompCert](http://compcert.inria.fr/) A verified C compiler, written in Coq.
+[AutoG&P](https://autognp.github.io): tool for performing highly automated game-hopping proofs for pairing-based cryptographic primitives
+
+[CompCert](http://compcert.inria.fr/) A verified C compiler, written in Coq
 
 The [Coq](https://coq.inria.fr/) Proof Assistant
 
