@@ -10,7 +10,7 @@ The [Coq](https://coq.inria.fr/) Proof Assistant
 
 [EasyCrypt](https://www.easycrypt.info/trac/): a toolset for reasoning about relational properties of probabilistic computations with adversarial code
 
-[F&ast;](https://github.com/FStarLang/FStar/): an ML-like language with a type system for program verification
+[F&ast;](https://www.fstar-lang.org/): an ML-like language with a type system for program verification
 
 [Fiat Crypto](https://github.com/mit-plv/fiat-crypto/): automatic derivation of fast crypto-primitive code (for now just ECC) from specifications in Coq, generating proofs along the way
 
