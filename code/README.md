@@ -10,6 +10,6 @@
 
 WIP: [applying SAW to OpenSSL](https://github.com/benlaurie/openssl/tree/saw/proof)
 
-[seL4](https://sel4.systems/) is an L4 kernel verified with Isabelle/HOL
+[seL4](https://sel4.systems/): an L4 kernel verified with Isabelle/HOL
 
 [Verificatum](http://www.verificatum.com/index.html): verified voting stuff
