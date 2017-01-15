@@ -8,6 +8,10 @@
 
 The [Coq](https://coq.inria.fr/) Proof Assistant
 
+[Crucible](https://github.com/GaloisInc/crucible): a language-agnostic library for performing forward symbolic execution of imperative progams
+
+[Cryptol](http://cryptol.net/): a domain-specific language for specifying cryptographic algorithms
+
 [EasyCrypt](https://www.easycrypt.info/trac/): a toolset for reasoning about relational properties of probabilistic computations with adversarial code
 
 [F&ast;](https://www.fstar-lang.org/): an ML-like language with a type system for program verification
@@ -18,9 +22,13 @@ The [Coq](https://coq.inria.fr/) Proof Assistant
 
 [gfverif](http://gfverif.cryptojedi.org): fast and easy verification of finite-field arithmetic
 
-Galois' [Software Analysis Workbench (SAW)](https://saw.galois.com/)
+[Ivory](http://ivorylang.org/): an eDSL for safe systems programming. You can think of Ivory as a safer C, embedded in Haskell
 
-[Kami](http://plv.csail.mit.edu/kami/):  tool for verified hardware design (ISA->RTL)
+[Kami](http://plv.csail.mit.edu/kami/): tool for verified hardware design (ISA->RTL)
+
+[Kremlin](https://github.com/FStarLang/kremlin): translate a subset of F&ast; to C
+
+[Software Analysis Workbench (SAW)](https://saw.galois.com/)
 
 [Verifast](https://people.cs.kuleuven.be/~bart.jacobs/verifast/): a verifier for single-threaded and multithreaded C and Java programs annotated with preconditions and postconditions written in separation logic
 
