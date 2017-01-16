@@ -11,7 +11,8 @@ The [Coq](https://coq.inria.fr/) Proof Assistant
 
 *While you can install Coq with `apt-get install coqide` or executing the binary/dmg if you use Windows. The best way to install coq is to use [opam](https://opam.ocaml.org/)*:
 
-```sudo apt-get install gcc
+```
+sudo apt-get install gcc
 sudo apt-get install opam
 opam init
 opam switch coq --alias-of 4.04.0
