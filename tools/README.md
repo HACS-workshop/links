@@ -11,16 +11,15 @@ The [Coq](https://coq.inria.fr/) Proof Assistant
 
 *While you can install Coq with `apt-get install coqide` or executing the binary/dmg if you use Windows. The best way to install coq is to use [opam](https://opam.ocaml.org/)*:
 
-```
-  sudo apt-get install gcc
-  sudo apt-get install opam
-  opam init
-  opam switch 4.03.0
-  opam install coq.8.6
-  opam install coqide.8.6
-  opam repo add coq-released https://coq.inria.fr/opam/released
-  opam install coq-mathcomp-ssreflect
-  opam install menhir
+```sudo apt-get install gcc
+sudo apt-get install opam
+opam init
+opam switch coq --alias-of 4.04.0
+opam install coq
+opam install coqide
+opam repo add coq-released https://coq.inria.fr/opam/released
+opam install coq-mathcomp-ssreflect
+opam install menhir
 ```
 
 [Crucible](https://github.com/GaloisInc/crucible): a language-agnostic library for performing forward symbolic execution of imperative progams
