@@ -14,8 +14,6 @@
 
 [Verifying s2n HMAC with SAW](https://galois.com/blog/2016/09/verifying-s2n-hmac-with-saw/)
 
---------------------------------------------
-
 # Coq Self-Study (CSS)
 
 [Software Foundations](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html), by Benjamin C. Pierce, Arthur Azevedo de Amorim, Chris Casinghino, Marco Gaboardi, Michael Greenberg, Cătălin Hriţcu, Vilhelm Sjöberg, Brent Yorgey
