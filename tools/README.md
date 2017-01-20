@@ -4,6 +4,8 @@
 
 [AutoG&P](https://autognp.github.io): tool for performing highly automated game-hopping proofs for pairing-based cryptographic primitives
 
+[CBMC](https://github.com/diffblue/cbmc): a bounded model checker for C and Java
+
 [CompCert](http://compcert.inria.fr/) A verified C compiler, written in Coq
 
 
@@ -29,6 +31,8 @@ opam install menhir
 
 [EasyCrypt](https://www.easycrypt.info/trac/): a toolset for reasoning about relational properties of probabilistic computations with adversarial code
 
+[Entroposcope](http://entroposcope.verifythis.org): a tool for finding entropy loss bugs in PRNGs
+
 [F&ast;](https://www.fstar-lang.org/): an ML-like language with a type system for program verification
 
 [Fiat Crypto](https://github.com/mit-plv/fiat-crypto/): automatic derivation of fast crypto-primitive code (for now just ECC) from specifications in Coq, generating proofs along the way
@@ -40,6 +44,8 @@ opam install menhir
 [Ivory](http://ivorylang.org/): an eDSL for safe systems programming. You can think of Ivory as a safer C, embedded in Haskell
 
 [Kami](http://plv.csail.mit.edu/kami/): tool for verified hardware design (ISA->RTL)
+
+[KeY](http://www.key-project.org/): a deductive verifier of functional correctness of Java programs (wrt properties annotated in JML)
 
 [Kremlin](https://github.com/FStarLang/kremlin): translate a subset of F&ast; to C
 
