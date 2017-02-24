@@ -1,4 +1,4 @@
-# Links to HACS-related code
+# Links to verified code
 
 [CertiKOS](http://flint.cs.yale.edu/certikos/): kernel with clean-slate design with end-to-end guarantees on extensibility, security, and resilience
 
