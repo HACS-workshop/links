@@ -13,3 +13,5 @@ WIP: [applying SAW to OpenSSL](https://github.com/benlaurie/openssl/tree/saw/pro
 [seL4](https://sel4.systems/): an L4 kernel verified with Isabelle/HOL
 
 [Verificatum](http://www.verificatum.com/index.html): verified voting stuff
+
+[NSS](https://github.com/nss-dev/nss): Mozilla's crypto library (yet to be verified)
