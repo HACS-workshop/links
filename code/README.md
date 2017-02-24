@@ -12,4 +12,6 @@ WIP: [applying SAW to OpenSSL](https://github.com/benlaurie/openssl/tree/saw/pro
 
 [seL4](https://sel4.systems/): an L4 kernel verified with Isabelle/HOL
 
+[Vale](https://github.com/project-everest/vale): Verified Assembly Language for Everest
+
 [Verificatum](http://www.verificatum.com/index.html): verified voting stuff
