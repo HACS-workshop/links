@@ -1,4 +1,4 @@
-# Tools related to HACS
+# Tools for verifying things
 
 ## Formal Methods
 
