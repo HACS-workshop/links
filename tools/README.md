@@ -51,6 +51,8 @@ opam install menhir
 
 [Software Analysis Workbench (SAW)](https://saw.galois.com/)
 
+[Vale](https://github.com/project-everest/vale): Verified Assembly Language for Everest
+
 [VeriFast](https://github.com/verifast/verifast/): a verifier for single-threaded and multithreaded C and Java programs annotated with preconditions and postconditions written in separation logic
 
 [Verified Software Toolchain (VST)](http://deepspec.org/research/VST/): software toolchain which includes static analyzers to check assertions about your program; optimizing compilers to translate your program to machine language; operating systems and libraries to supply context for your program
