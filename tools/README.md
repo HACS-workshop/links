@@ -41,6 +41,8 @@ opam install menhir
 
 [gfverif](http://gfverif.cryptojedi.org): fast and easy verification of finite-field arithmetic
 
+[hacspec](https://github.com/HACS-workshop/hacspec): a language for specifying crypto
+
 [Ivory](http://ivorylang.org/): an eDSL for safe systems programming. You can think of Ivory as a safer C, embedded in Haskell
 
 [Kami](http://plv.csail.mit.edu/kami/): tool for verified hardware design (ISA->RTL)
